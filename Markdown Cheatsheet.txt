@@ -1,68 +1,64 @@
-## Headers
+Headers
 
-`# H1`  
-`## H2`  
-`### H3`  
-`#### H4`  
-`##### H5`  
-`###### H6`
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-## Emphasis
+Emphasis
 
-`*Italic*` or `_Italic_`  
-`**Bold**` or `__Bold__`  
-`~~Strikethrough~~`
+*Italic* or _Italic_
+**Bold** or __Bold__
+~~Strikethrough~~
 
-## Lists
+Lists
 
-### Unordered
+Unordered
 
-`- Item` or `* Item`  
-`  - Subitem` or `  * Subitem`
+- Item or * Item
+ - Subitem or * Subitem
 
-### Ordered
+Ordered
 
-`1. Item`  
-`  1. Subitem`
+1. Item
+ 1. Subitem
 
-## Links
+Links
 
-`[Link text](URL)`  
-`[Link with title](URL "Title")`
+[Link text](URL)
+[Link with title](URL "Title")
 
-## Images
+Images
 
-`![Alt text](Image_URL)`  
-`![Alt text](Image_URL "Title")`
+![Alt text](Image_URL)
+![Alt text](Image_URL "Title")
 
-## Code
+Code
 
-### Inline
+Inline
 
-`` `code` ``
+`code`
 
-### Block
+Block
 
-````
 ```language
 code block
 ```
-````
 
-## Blockquotes
+Blockquotes
 
-`> Quote`  
-`>> Nested quote`
+> Quote
+>> Nested quote
 
-## Horizontal Rule
+Horizontal Rule
 
-`---` or `***` or `___`
+--- or *** or ___
 
-## Tables
+Tables
 
-```
 | Header 1 | Header 2 |
 |----------|----------|
 | Cell 1   | Cell 2   |
 | Cell 3   |          |
-```
