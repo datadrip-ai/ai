@@ -1,0 +1,68 @@
+## Headers
+
+`# H1`  
+`## H2`  
+`### H3`  
+`#### H4`  
+`##### H5`  
+`###### H6`
+
+## Emphasis
+
+`*Italic*` or `_Italic_`  
+`**Bold**` or `__Bold__`  
+`~~Strikethrough~~`
+
+## Lists
+
+### Unordered
+
+`- Item` or `* Item`  
+`  - Subitem` or `  * Subitem`
+
+### Ordered
+
+`1. Item`  
+`  1. Subitem`
+
+## Links
+
+`[Link text](URL)`  
+`[Link with title](URL "Title")`
+
+## Images
+
+`![Alt text](Image_URL)`  
+`![Alt text](Image_URL "Title")`
+
+## Code
+
+### Inline
+
+`` `code` ``
+
+### Block
+
+````
+```language
+code block
+```
+````
+
+## Blockquotes
+
+`> Quote`  
+`>> Nested quote`
+
+## Horizontal Rule
+
+`---` or `***` or `___`
+
+## Tables
+
+```
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1   | Cell 2   |
+| Cell 3   |          |
+```
